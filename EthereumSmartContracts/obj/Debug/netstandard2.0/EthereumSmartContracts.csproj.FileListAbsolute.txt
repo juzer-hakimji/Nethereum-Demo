@@ -1,0 +1,10 @@
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.deps.json
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.dll
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.pdb
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.csproj.AssemblyReference.cache
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.AssemblyInfoInputs.cache
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.AssemblyInfo.cs
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.csproj.CoreCompileInputs.cache
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.dll
+E:\Extra projects\Blockchain-projects\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.pdb
